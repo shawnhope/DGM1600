@@ -1,4 +1,4 @@
 DGM1600 GIT Commits Assignment
 //I don't actually know what we're supposed to do for this assignment or how to use repos properly just yet either
 
-082517 #1 Today's forecasted high temperature: 95 degrees
+082517 #1 Today's forecasted high temperature: 95 degrees.
