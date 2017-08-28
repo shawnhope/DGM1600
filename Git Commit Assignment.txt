@@ -3,3 +3,4 @@ DGM1600 GIT Commits Assignment
 
 082517 #1 Today's forecasted high temperature: 95 degrees.
 082617 #2 "" 95 degrees.
+082717 #3 "" 97 degrees.
