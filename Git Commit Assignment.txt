@@ -29,3 +29,4 @@ DGM1600 GIT Commits Assignment
 032511 marsha degrease
 032611 farrigno degrease
 051720 norris dgre
+051720 paul rudd dgre
