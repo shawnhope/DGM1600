@@ -1,6 +1,8 @@
 DGM1600 GIT Commits Assignment
 //I don't actually know what we're supposed to do for this assignment or how to use repos properly just yet either
+//8/29 now that I know how to do the assignment lemme just make up some weather for the futuurree
 
 082517 #1 Today's forecasted high temperature: 95 degrees.
 082617 #2 "" 95 degrees.
 082717 #3 "" 97 degrees.
+082899 120 degrees //wow the futures hot
