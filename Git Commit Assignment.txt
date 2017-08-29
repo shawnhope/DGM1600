@@ -15,3 +15,4 @@ DGM1600 GIT Commits Assignment
 090399 72 degrees 
 090499 j5 degrees //temperatures just have j's now
 090599 83 degrees
+090699 78 degrees 
