@@ -8,3 +8,4 @@ DGM1600 GIT Commits Assignment
 082899 120 degrees //wow the futures hot
 082999 70 degrees //oh no, now its cold whaaat
 083099 110 degrees
+083199 300 degrees //international don't go outside day
