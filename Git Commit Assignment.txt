@@ -20,3 +20,4 @@ DGM1600 GIT Commits Assignment
 101000 45 degrees //Alaska is now officially known as the Dab City
 110799 2b degrees //what a difference another 100 years make
 110899 3b degrees
+110499 14n degrees //the days when people wished for it to be j5, amirite
