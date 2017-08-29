@@ -25,3 +25,4 @@ DGM1600 GIT Commits Assignment
 032111 7.8iw/ degrease //humans evolved to not be affected by the weather
 032211 alf degrease
 032311 fonzy degrease //temperature is now renamed after tv show characters from 200 years ago as a novelty
+032411 lucy degrease
