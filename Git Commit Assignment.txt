@@ -27,3 +27,4 @@ DGM1600 GIT Commits Assignment
 032311 fonzy degrease //temperature is now renamed after tv show characters from 200 years ago as a novelty
 032411 lucy degrease
 032511 marsha degrease
+032611 farrigno degrease
